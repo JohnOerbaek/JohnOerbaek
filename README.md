@@ -1,4 +1,4 @@
-Hi, I'm John 👋
+Hi, I'm John :))
 
 I'm a fifth-year student on the five-year integrated master's programme in Information Technology and Economics (ITØK) at the University of Bergen, working at the intersection of finance, machine learning, and software — with a background in psychology.
 
