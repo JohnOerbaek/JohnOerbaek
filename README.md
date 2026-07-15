@@ -19,7 +19,10 @@ Python · NumPy · pandas · scikit-learn · SQL · Git
 Background:
 
 Integrated MSc, Information Technology and Economics (sivilingeniør) — University of Bergen, expected 2027
+
 BSc, Psychology — NTNU, Trondheim
+
+
 Coursework highlights: machine learning, optimization & metaheuristics, finance, statistics
 
 
